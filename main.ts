@@ -13,11 +13,11 @@ input.onGesture(Gesture.Shake, function () {
         AABLEEEBLU = 10
     } else if (tool == 1) {
         basic.showLeds(`
-            . # # # .
-            . # # # .
-            . # # # .
-            . # # # .
-            . # # # .
+            # # # # #
+            # # # # #
+            # # # # #
+            # # # # #
+            # # # # #
             `)
         AABLEEEBLU = 29
     } else if (tool == 2) {
